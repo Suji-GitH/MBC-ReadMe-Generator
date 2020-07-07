@@ -1,0 +1,28 @@
+{
+  "name": "mbc-readme-generator",
+  "version": "1.0.0",
+  "description": "Package for ReadMe Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suji-GitH/MBC-ReadMe-Generator.git"
+  },
+  "keywords": [
+    "ReadMe",
+    "Generator",
+    "Node.js",
+    "Assignment"
+  ],
+  "author": "Sujith.R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suji-GitH/MBC-ReadMe-Generator/issues"
+  },
+  "homepage": "https://github.com/Suji-GitH/MBC-ReadMe-Generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.0"
+  }
+}
