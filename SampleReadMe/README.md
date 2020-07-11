@@ -21,7 +21,7 @@ test
 test
 
 ## License
-<img src = "https://img.shields.io/badge/license-MIT-yellow">(https://opensource.org/licenses/MIT)
+[<img src = "https://img.shields.io/badge/license-MIT-yellow">](https://opensource.org/licenses/MIT)
 
 ## Contributing
 test
