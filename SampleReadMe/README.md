@@ -21,7 +21,7 @@ test
 test
 
 ## License
-[https://img.shields.io/badge/license-MIT-yellow](https://opensource.org/licenses/MIT)
+[![License: GPL v3][https://img.shields.io/badge/license-MIT-yellow](https://opensource.org/licenses/MIT)
 
 ## Contributing
 test
