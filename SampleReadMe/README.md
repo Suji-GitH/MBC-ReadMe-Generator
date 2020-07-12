@@ -1,6 +1,6 @@
+[<img src = "https://img.shields.io/badge/license-EPL-blue">](https://opensource.org/licenses/entessa.php)
 
-## Project Title 
-test
+# ReadMe Generator
 
 ## Content
 - [Project Description](#Project-Description)
@@ -12,24 +12,21 @@ test
 - [Questions](#Questions)
 
 ## Project Description
-test
+App to generate readme file
 
 ## Installation
-test
+This github repo, node.js, npm i
 
 ## Usage
-test
-
-## License
-[https://img.shields.io/badge/license-MIT-yellow](https://opensource.org/licenses/MIT)
+used through node terminal 
 
 ## Contributing
-test
+Me
 
 ## Tests
-test
+none
 
 ## Questions
-test
-Email - test
-GitHub - test
+by github or email
+GitHub - [SampleGithub username](https://github.com/SampleGithub username)
+Email - test@gmail.com
