@@ -2,7 +2,7 @@
 
 ## Application & Repository Link
 
-###### [Application Walkthrough](https://github.com/Suji-GitH/MBC-ReadMe-Generator/tree/master/assets/ScreenCapture)
+###### [Application Walkthrough](https://github.com/Suji-GitH/MBC-ReadMe-Generator/tree/master/assets/ScreenCapture/ApplicationDemo.gif)
 
 ###### [Sample README.md](https://github.com/Suji-GitH/MBC-ReadMe-Generator/tree/master/assets/SampleReadMe)
 
