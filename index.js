@@ -132,7 +132,7 @@ GitHub - [${githubUsername}](${githubLink})
 Email - ${userEmail}
 `);
 
-    const printResult = fs.writeFile("./SampleReadMe/README.md", result, function() {
+    const printResult = fs.writeFile("./assets/SampleReadMe/README.md", result, function() {
             console.log("Success!");
         }
     );

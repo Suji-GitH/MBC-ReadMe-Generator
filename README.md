@@ -2,9 +2,9 @@
 
 ## Application & Repository Link
 
-###### [Application Walkthrough]()
+###### [Application Walkthrough](https://github.com/Suji-GitH/MBC-ReadMe-Generator/tree/master/assets/ScreenCapture)
 
-###### [Sample README.md](https://github.com/Suji-GitH/MBC-ReadMe-Generator)
+###### [Sample README.md](https://github.com/Suji-GitH/MBC-ReadMe-Generator/tree/master/assets/SampleReadMe)
 
 ###### [Repository Link](https://github.com/Suji-GitH/MBC-ReadMe-Generator)
 
@@ -44,27 +44,20 @@ SO THAT can quickly create a professional README for a new project
 ###### App Screenshots
 
 Landing Page
-<img src = "./assets/img/Screenshots/LandingPage.jpg">
+<img src = "./assets/Screenshots/FilePath.jpg">
 
 About
-<img src = "./assets/img/Screenshots/About.jpg">
+<img src = "./assets/Screenshots/Initiate.jpg">
 
 Portfolio
-<img src = "./assets/img/Screenshots/Portfolio.jpg">
-
-Portfolio Project
-<img src = "./assets/img/Screenshots/PortfolioProject.jpg">
-
-Contact
-<img src = "./assets/img/Screenshots/Contact.jpg">
-
-Portfolio - Mobile View <br>
-<img src = "./assets/img/Screenshots/MobileView.jpg">
+<img src = "./assets/Screenshots/Prompt.jpg">
 
 ## Credits
 
 - npm inquirer 
 - node.js
+- https://opensource.org/
+- https://shields.io/
 
 ## Testing
 
